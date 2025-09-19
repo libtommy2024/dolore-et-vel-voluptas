@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/dolore-et-vel-voluptas",
-  "version": "17.36.463",
+  "version": "17.36.464",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -115,5 +115,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/dolore-et-vel-voluptas/issues"
   },
-  "packageManager": "yarn@4.9.4"
+  "packageManager": "yarn@4.10.2"
 }
